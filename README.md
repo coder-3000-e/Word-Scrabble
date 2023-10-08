@@ -30,7 +30,7 @@ To run this program, follow these steps:
 
    - **Download as ZIP:** Alternatively, you can download the repository as a ZIP file by clicking the "Download" button on the GitHub repository's main page. Once downloaded, extract the ZIP archive to a location of your choice on your local machine.
 
-4. Navigate to the project's root directory (in folder `Word Scrabble`) in your terminal.
+4. Navigate to the project's root directory (in folder `Word Scrabble` where the `Program.cs` is located in) in your terminal.
 
 5. Run the following commands to build and execute the program:
    ```
