@@ -7,8 +7,6 @@
   - [Usage](#usage)
   - [Additional Resources](#additional-resources)
 
-You can include this table of contents at the beginning of your documentation to help users navigate through it easily.
-
 ## Description
 This program accepts a sentence from the user and generates a random sentence based on the following criteria: for each word in the sentence, it replaces the word with another word that starts with the same letter and has the same length. If a suitable replacement cannot be found, the original word is retained. Additionally, the program ensures that the same input sentence yields a different output sentence each time, as it selects a random word that fulfills the criteria.
 
