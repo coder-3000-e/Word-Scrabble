@@ -25,7 +25,7 @@ To run this program, follow these steps:
 
    - **Clone with Git:** Run the following command in your terminal to clone the repository:
      ```
-     git clone https://github.com/your-username/word-scrabble.git
+     git clone https://github.com/coder-3000-e/Word-Scrabble.git
      ```
 
    - **Download as ZIP:** Alternatively, you can download the repository as a ZIP file by clicking the "Download" button on the GitHub repository's main page. Once downloaded, extract the ZIP archive to a location of your choice on your local machine.
